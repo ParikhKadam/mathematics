@@ -1,7 +1,10 @@
 # mathematics
 Mathematics materials for clear understanding
 
-## Probability Distributions
+## Probability
+1. Probability, Prior, Posterior, Likelihood, Bayes Theorem, Conditional Probability, Joint Probability - https://medium.com/@mlengineer/joint-probability-vs-conditional-probability-fa2d47d95c4a
+
+## Distributions
 ### Types of Distribution
 1. Unimodal - https://en.wikipedia.org/wiki/Unimodality
 
