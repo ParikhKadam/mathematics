@@ -6,6 +6,7 @@ Mathematics materials for clear understanding
 
 ## Expected Value
 1. Basic probability formulas, Expected values and it's usecase - https://github.com/ParikhKadam/mathematics/blob/master/expected%20value/expected%20value.pdf
+2. Basics of Expected Value with a few important notes - https://courses.lumenlearning.com/boundless-statistics/chapter/expected-value-and-standard-error/
 
 ## Distributions
 ### Types of Distribution
