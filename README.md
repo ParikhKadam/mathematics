@@ -12,6 +12,10 @@ Mathematics materials for clear understanding
 ### Types of Distribution
 1. Unimodal - https://en.wikipedia.org/wiki/Unimodality
 
+## Contraction Mapping Theorem
+1. The complete understanding - https://github.com/ParikhKadam/mathematics/blob/master/contraction%20mapping/contraction%20mapping.pdf
+2. Simpler understanding - link to my paper dissection github repo
+
 ## Formulas and a way to derive them (if possible)
 ### Powers and Roots
 1. **(a+b+c+d)^2** - https://www.quora.com/What-is-the-formula-for-a-b-c-d-%C2%B2
