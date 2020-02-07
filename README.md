@@ -12,9 +12,20 @@ Mathematics materials for clear understanding
 ### Types of Distribution
 1. Unimodal - https://en.wikipedia.org/wiki/Unimodality
 
-## Contraction Mapping Theorem
+## Theorems and proofs
+### Lipschitz constant
+1. Simple understanding - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#lipschitz-constant
+2. Lipschitz for iterative functions - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#lipschitz-constant-for-nested-functions
+
+### Contraction Mapping Theorem
 1. The complete understanding - https://github.com/ParikhKadam/mathematics/blob/master/contraction%20mapping/contraction%20mapping.pdf
-2. Simpler understanding - link to my paper dissection github repo
+2. Simpler understanding - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#contractive-mapping-functions
+3. Property of Contractive Mapping - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#property-of-contractive-mapping
+4. Non-expansive map - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#short-map--non-expansive-mapping
+
+### Fixed point
+1. Simple understanding - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#fixed-point
+2. Attractive fixed points - https://github.com/ParikhKadam/papers-summary/blob/master/Fooling%20Deep%20Neural%20Networks/Intriguing%20properties%20of%20neural%20networks/dissection.md#attractive-fixed-points
 
 ## Formulas and a way to derive them (if possible)
 ### Powers and Roots
