@@ -8,6 +8,9 @@ Mathematics materials for clear understanding
 1. Basic probability formulas, Expected values and it's usecase - https://github.com/ParikhKadam/mathematics/blob/master/expected%20value/expected%20value.pdf
 2. Basics of Expected Value with a few important notes - https://courses.lumenlearning.com/boundless-statistics/chapter/expected-value-and-standard-error/
 
+## Moment
+1. Understanding of moment and its types i.e. 1st moment, 2nd moment, 0th moment and so on - https://en.wikipedia.org/wiki/Moment_(physics)
+
 ## Distributions
 ### Types of Distribution
 1. Unimodal - https://en.wikipedia.org/wiki/Unimodality
