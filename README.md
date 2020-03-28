@@ -13,6 +13,7 @@ Mathematics materials for clear understanding
 
 ## Optimization
 1. Derivative set 0 vs. gradient descent - https://www.quora.com/In-mathematical-optimization-why-would-someone-use-gradient-descent-for-a-convex-function-Why-wouldnt-they-just-find-the-derivative-of-this-function-and-look-for-the-minimum-in-the-traditional-way
+2. Closed form solution vs. gradient descent - https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution
 
 ## Distributions
 ### Types of Distribution
