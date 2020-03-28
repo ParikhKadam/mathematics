@@ -11,6 +11,9 @@ Mathematics materials for clear understanding
 ## Moment
 1. Understanding of moment and its types i.e. 1st moment, 2nd moment, 0th moment and so on - https://en.wikipedia.org/wiki/Moment_(physics)
 
+## Optimization
+1. Derivative set 0 vs. gradient descent - https://www.quora.com/In-mathematical-optimization-why-would-someone-use-gradient-descent-for-a-convex-function-Why-wouldnt-they-just-find-the-derivative-of-this-function-and-look-for-the-minimum-in-the-traditional-way
+
 ## Distributions
 ### Types of Distribution
 1. Unimodal - https://en.wikipedia.org/wiki/Unimodality
