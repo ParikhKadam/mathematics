@@ -11,6 +11,9 @@ Mathematics materials for clear understanding
 ## Moment
 1. Understanding of moment and its types i.e. 1st moment, 2nd moment, 0th moment and so on - https://en.wikipedia.org/wiki/Moment_(physics)
 
+## Correlation
+1. Correlation vs. Collinearity - https://www.quora.com/In-statistics-what-is-the-difference-between-collinearity-and-correlation
+
 ## Optimization
 1. Derivative set 0 vs. gradient descent - https://www.quora.com/In-mathematical-optimization-why-would-someone-use-gradient-descent-for-a-convex-function-Why-wouldnt-they-just-find-the-derivative-of-this-function-and-look-for-the-minimum-in-the-traditional-way
 2. Closed form solution vs. gradient descent - https://stats.stackexchange.com/questions/278755/why-use-gradient-descent-for-linear-regression-when-a-closed-form-math-solution
