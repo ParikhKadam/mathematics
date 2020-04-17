@@ -40,3 +40,6 @@ https://github.com/ParikhKadam/common-ml-concepts/blob/master/README.md#evaluati
 ## Formulas and a way to derive them (if possible)
 ### Powers and Roots
 1. **(a+b+c+d)^2** - https://www.quora.com/What-is-the-formula-for-a-b-c-d-%C2%B2
+
+## Gradient Descent
+1. Why use gradient descent - https://www.quora.com/In-mathematical-optimization-why-would-someone-use-gradient-descent-for-a-convex-function-Why-wouldnt-they-just-find-the-derivative-of-this-function-and-look-for-the-minimum-in-the-traditional-way
